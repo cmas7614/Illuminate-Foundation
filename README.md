@@ -1,5 +1,5 @@
 # Illuminate Foundation Repository
-Every release from the Illuminate Foundation. Always free and open source. Distributed under the GNU General Public License (v3.0), which can be read in more detail here - https://choosealicense.com/licenses/gpl-3.0/
+Every release from the Illuminate Foundation. Always free and open source. Distributed under the GNU General Public License (v3.0), which can be read in more detail in the software package or here - https://choosealicense.com/licenses/gpl-3.0/
 
 
 ## Illuminate Web Browser
