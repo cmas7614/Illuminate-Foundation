@@ -8,3 +8,6 @@ A basic HTML/CSS web browser with limited functionality. Built on the framework 
 Note: You may recieve a warning from Windows Defender, SmartScreen, or another applicable anti-virus. As this software is provided for testing (and potentially entertainment) purposes, it it not digitally signed. This software is distributed *without a warranty of any kind*, and it's up to you if you want to use it or not. **If you don't trust it, don't use it!**
 
 More information can be found at the website - http://illuminatebrowser.cf
+
+
+Illuminate Foundation (c/o CM) - 2022
