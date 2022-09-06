@@ -1,0 +1,12 @@
+D:\Visual Studio Projects\IlluminateBrowser\bin\Debug\IlluminateBrowser.exe.config
+D:\Visual Studio Projects\IlluminateBrowser\bin\Debug\IlluminateBrowser.exe
+D:\Visual Studio Projects\IlluminateBrowser\bin\Debug\IlluminateBrowser.pdb
+D:\Visual Studio Projects\IlluminateBrowser\obj\Debug\IlluminateBrowser.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\IlluminateBrowser\obj\Debug\IlluminateBrowser.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Projects\IlluminateBrowser\obj\Debug\IlluminateBrowser.Form1.resources
+D:\Visual Studio Projects\IlluminateBrowser\obj\Debug\IlluminateBrowser.Properties.Resources.resources
+D:\Visual Studio Projects\IlluminateBrowser\obj\Debug\IlluminateBrowser.csproj.GenerateResource.cache
+D:\Visual Studio Projects\IlluminateBrowser\obj\Debug\IlluminateBrowser.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\IlluminateBrowser\obj\Debug\IlluminateBrowser.exe
+D:\Visual Studio Projects\IlluminateBrowser\obj\Debug\IlluminateBrowser.pdb
+D:\Visual Studio Projects\IlluminateBrowser\obj\Debug\IlluminateBrowser.Form2.resources
