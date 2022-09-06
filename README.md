@@ -10,4 +10,3 @@ Note: You may recieve a warning from Windows Defender, SmartScreen, or another a
 More information can be found at the website - http://illuminatebrowser.cf
 
 
-Illuminate Foundation (c/o CM) - 2022
