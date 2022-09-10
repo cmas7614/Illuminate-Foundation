@@ -6,14 +6,11 @@ Every release from the Illuminate Foundation. Always free and open source. Distr
 ## Illuminate Web Browser (IE)
 A basic HTML/CSS web browser with limited functionality. Built on the framework of the late Internet Explorer, in case you're feeling nostalgic. Official slogan: "Everything you hated about IE- and MORE!". Functionality includes tabs, search bar, forward/back/reload/home buttons, and an "About" page.
 
-Note: You may recieve a warning from Windows Defender, SmartScreen, or another applicable anti-virus. As this software is provided for testing (and potentially entertainment) purposes, it it not digitally signed (but still requires internet access). This software is distributed *without a warranty of any kind*, and it's up to you if you want to use it or not. **If you don't trust it, don't use it!**
-
 <br/>
 
 ## Illuminate Web Browser (Chromium)
 A more advanced Chromium-based web browser with extended functionality. Built on the framework of the open-source Chromium project. Functionality includes tabs, search bar, forward/back/reload/home buttons, and an "About" page, and can load any modern website. As it is a large piece of software (about 150 MB), the source code cannot be provided here. The software itself is provided via a Drive link in the file.
 
-Note: You may recieve a warning from Windows Defender, SmartScreen, or another applicable anti-virus. As this software is provided for testing (and potentially entertainment) purposes, it it not digitally signed (but still requires internet access). This software is distributed *without a warranty of any kind*, and it's up to you if you want to use it or not. **If you don't trust it, don't use it!**
 
 <br/>
 
@@ -21,6 +18,9 @@ Note: You may recieve a warning from Windows Defender, SmartScreen, or another a
 A basic text editor with limited plain-text related functions. Functionality includes importing and saving text files, as well as undo/redo/cut/copy/paste.
 
 <br/>
+<br/>
+Note: You may recieve a warning from Windows Defender, SmartScreen, or another applicable anti-virus. As this software is provided for testing (and potentially entertainment) purposes, it it not digitally signed. This software is distributed *without a warranty of any kind*, and it's up to you if you want to use it or not. **If you don't trust it, don't use it!**
+
 <br/>
 
 More information can be found at the website - http://illuminatebrowser.cf
