@@ -1,7 +1,6 @@
 # Illuminate Foundation Repository
 Every release from the Illuminate Foundation. Always free and open source. Distributed under the GNU General Public License (v3.0), which can be read about in more detail above.
 
-____________________________________________________________________________________________________________________________________________________________________
 
 ## Illuminate Web Browser (IE)
 A basic HTML/CSS web browser with limited functionality. Built on the framework of the late Internet Explorer, in case you're feeling nostalgic. Official slogan: "Everything you hated about IE- and MORE!". Functionality includes tabs, search bar, forward/back/reload/home buttons, and an "About" page.
@@ -15,8 +14,9 @@ Note: You may recieve a warning from Windows Defender, SmartScreen, or another a
 
 ## IllumiType
 A basic text editor with limited plain-text related functions. Functionality includes importing and saving text files, as well as undo/redo/cut/copy/paste.
-<br/>
 
+<br/>
+<br/>
 
 More information can be found at the website - http://illuminatebrowser.cf
 
