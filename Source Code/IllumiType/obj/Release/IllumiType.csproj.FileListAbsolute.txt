@@ -1,0 +1,12 @@
+D:\VS Community Projects\IllumiType\bin\Release\IllumiType.exe.config
+D:\VS Community Projects\IllumiType\bin\Release\IllumiType.exe
+D:\VS Community Projects\IllumiType\bin\Release\IllumiType.pdb
+D:\VS Community Projects\IllumiType\obj\Release\IllumiType.csproj.AssemblyReference.cache
+D:\VS Community Projects\IllumiType\obj\Release\IllumiType.csproj.SuggestedBindingRedirects.cache
+D:\VS Community Projects\IllumiType\obj\Release\IllumiType.Form1.resources
+D:\VS Community Projects\IllumiType\obj\Release\IllumiType.Form2.resources
+D:\VS Community Projects\IllumiType\obj\Release\IllumiType.Properties.Resources.resources
+D:\VS Community Projects\IllumiType\obj\Release\IllumiType.csproj.GenerateResource.cache
+D:\VS Community Projects\IllumiType\obj\Release\IllumiType.csproj.CoreCompileInputs.cache
+D:\VS Community Projects\IllumiType\obj\Release\IllumiType.exe
+D:\VS Community Projects\IllumiType\obj\Release\IllumiType.pdb
